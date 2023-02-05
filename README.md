@@ -22,12 +22,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![A screenshot of my website](./srceenshot.jpeg)
 
-
 ### Links
-
 - Live Site URL: [https://victor-crest-profile-preview.netlify.app/]
-
-
 
 ### Built with
 
@@ -36,9 +32,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-
-
 
 ### Continued development
 I will start learning Sass and tailwaind.css for my css journey 
